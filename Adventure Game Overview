@@ -1,0 +1,29 @@
+# Adventure Game 
+Adventure Game for Introduction to Programming
+
+## Game Overview
+Brief description of your game. Example: 
+You set upon your new adventure with four different paths each with a new perspective of the same story. You must find your way to defeating the allmighty dragon in the end!
+
+### World
+The enviroment that will be there are the -Castle, Ocean, Forest, and the Town. You travel from there to the Dragons den. You interact with the other characters
+Things that help win are -Eating, Weapons.
+
+### Characters
+The people you meet and start with are.
+1. The king (Path one) You start as the king and make important decisions for your entire kingdom!
+2. A random townsfolk who is confident in their skills of combat and hunting.
+3. A person with no memory of who they are tying to figure out what to do with the world around them.
+4. A bitter fisherman who is a bit too confident some times, somewhat lonley.
+
+### Player Goals
+What does the player need to accomplish? How is their progress tracked?
+Path One. You must start the end goal of fighting the dragon and lead your kingdom properly.
+Path Two. You are a poor man in town who wishes to get food and money, You choose how to do acomplish these two.
+Path Three. Find out the world around you and learn your purpose. But be weary of the dangers of the world
+Path Four. You wish for anyway to get rid of your boring life, You believe you can do more.  Find out how you can do it.
+These are tracked through either acomplishing the goal with the proper choice, Wrong choices result in a ending of the game.
+
+Add any other information you think is important.
+This game is a multi choice path adventure game. It is supposed to be difficult to finish all the path due to it starting you over if you get an awnser wrong.
+Mentioning that is important because the choice to start over from the start was an intentional design choice.
